@@ -1,0 +1,22 @@
+name: crc_metathermo
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - scanpy
+  - anndata
+  - h5py
+  - openpyxl
+  - xlsxwriter
+  - networkx
+  - pip:
+      - scvi-tools
+      - gseapy

@@ -1,0 +1,14 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+scikit-learn
+scanpy
+anndata
+h5py
+openpyxl
+xlsxwriter
+networkx
+scvi-tools
+gseapy
